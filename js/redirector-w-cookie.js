@@ -1,3 +1,5 @@
+// Original redirector w/ 30-day cookie that eliminates randomness
+
 // Count the number of URLs in list.
 		var groups = redirectURLs.urls.length;
 
