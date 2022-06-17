@@ -12,7 +12,7 @@ The user is then automatically and randomly redirected to one of the URLs when t
 	
 Please email <a href="mailto:github@holygeek.com">github@holygeek.com</a> or join <a href="http://discord.holygeek.com/">discord.holygeek.com</a> if you have any questions.
 
-## How do I edit Randomizer?
+## How do I edit URL Redirector?
 
 1. Download or git clone.
 2. Edit the file <code>js/urls.js</code> and replace the URLs with your own.
