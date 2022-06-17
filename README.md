@@ -6,7 +6,7 @@ URL Redirector redirects the user (i.e., the web browser) to a random URL from a
 
 For example, replace the URLs in js/urls.js with your own. That's it!
 
-The user is then automatically and randomly redirected to one of the URLs when the user visits index.html. If the user decides to close and reopen the browser, the user is redirected to a different URL in the list, unless you replace <code>redirector.js</code> with <code>redirector-w-cookie.js</code>, in which case they are  redirected to the same URL since a cookie is saved in the web browser.
+The user is then automatically and randomly redirected to one of the URLs when the user visits <code>index.html</code>. If the user decides to close and reopen the browser, the user is redirected to a different URL in the list, unless you replace <code>redirector.js</code> with <code>redirector-w-cookie.js</code> in line 7 of <code>index.html</code>, in which case they are  redirected to the same URL since a cookie is saved in the web browser.
 
 ## Contact
 	
